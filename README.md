@@ -16,15 +16,15 @@ Write a function named 'calculateChaiIngridients' that;
 3. Calculate the required amount for each ingridient (water, milk, tea leaves, sugar) based on the 'numberOfCups'.
 4. Print the results to the console in a clear, readable format.
 
-For 3 cups of Chai Bora::
-User is prompted: "Karibu! How many cups of Chai Bora would you like to make?";
-User enters : 3;
+For 3 cups of Chai Bora:
+User is prompted: "Karibu! How many cups of Chai Bora would you like to make?"
+User enters : 3
 Console output;
-To make 3 cups of Kenyan Chai, you will need:;
-Water: 600 ml;
-Milk: 150 ml;
-Tea Leaves (Majani): 3 tablespoons;
-Sugar (Sukari): 6 teaspoons;
+1. To make 3 cups of Kenyan Chai, you will need:
+2. Water: 600 ml;
+3. Milk: 150 ml;
+4. Tea Leaves (Majani): 3 tablespoons;
+5. Sugar (Sukari): 6 teaspoons;
 
 Enjoy your Chai Bora!;
 
@@ -43,14 +43,14 @@ Write a Javascript function named 'calculateBodaFare' that;
 3. Calculates the total estimated fare using the formula: 'totalFare = baseFare + (distanceInKm * chargePerKm)'
 4. Prints the result to the console in a user-friendly format.
 
-For a trip of 5 km:;
-User is prompted: "Unafika wapi Mkubwa? Kilometer ngapi?:";
-User enters: 5;
-Console output:;
-Uko kwote? Io ni 5 km:;
-Ukikalia Pikipiki: KES 50;
-Mpaka Uko: KES 75;
-Total: KES 125;
+For a trip of 5 km:
+User is prompted: "Unafika wapi Mkubwa? Kilometer ngapi?:"
+User enters: 5
+Console output:
+1. Uko kwote? Io ni 5 km:
+2. Ukikalia Pikipiki: KES 50
+3. Mpaka Uko: KES 75
+4. Total: KES 125
 
 Panda Pikipiki!;
 
@@ -72,31 +72,31 @@ Write a Javascript function named 'estimateTransactionFee' that;
 5. Prints the results to the console.
 
 Interactions & Output:
-User is prompted: "Unatuma Ngapi? (KES):";
+User is prompted: "Unatuma Ngapi? (KES):"
 
 Scenario 1: User enters 500;
-(1.5% of 500 = 7.5. Fee becomes KES 10 due to minimum.);
-Console output:;
-Sending KES 500:;
-Calculated Transaction Fee: KES 10;
-Total amount to be debited: KES 510;
+(1.5% of 500 = 7.5. Fee becomes KES 10 due to minimum.)
+Console output:
+1. Sending KES 500:
+2. Calculated Transaction Fee: KES 10
+3. Total amount to be debited: KES 510
 
-Send Money Securely!;
+Send Money Securely!
 
 Scenario 2: User enters 2000;
-(1.5% of 2000 = 30. Fee is KES 30.);
-Console output:;
-Sending KES 2000:;
-Calculated Transaction Fee: KES 30;
-Total amount to be debited: KES 2030;
+(1.5% of 2000 = 30. Fee is KES 30.)
+Console output:
+1. Sending KES 2000:
+2. Calculated Transaction Fee: KES 30
+3. Total amount to be debited: KES 2030
 
-Send Money Securely!;
+Send Money Securely!
 
 Scenario 3: User enters 10000;;
-(1.5% of 10000 = 150. Fee becomes KES 70 due to maximum.);
-Console output:;
-Sending KES 10000:;
-Calculated Transaction Fee: KES 70;
-Total amount to be debited: KES 10070;
+(1.5% of 10000 = 150. Fee becomes KES 70 due to maximum.)
+Console output:
+1. Sending KES 10000:
+2. Calculated Transaction Fee: KES 70
+3. Total amount to be debited: KES 10070
 
-Send Money Securely!;
+Send Money Securely!
